@@ -1,2 +1,0 @@
-# TridenteJVR
-alternativa a phpmyadmin
